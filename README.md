@@ -32,7 +32,7 @@ This page provides an overview of patient demographics and medical conditions, i
 
 ### 2. Key Trends
 
-![Key Trends](assets/02-key-trends.png)
+![Key Trends](02-key-trends.png)
 
 This page focuses on admission patterns and operational trends:
 
@@ -48,7 +48,7 @@ This page focuses on admission patterns and operational trends:
 
 ### 3. Treatment & Cost
 
-![Treatment & Cost](assets/03-treatment-and-cost.png)
+![Treatment & Cost](03-treatment-and-cost.png)
 
 This page analyzes healthcare costs and treatment patterns:
 
