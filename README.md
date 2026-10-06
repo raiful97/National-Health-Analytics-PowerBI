@@ -14,7 +14,7 @@ The dashboard is designed as a 3-page business intelligence report:
 
 ### 1. Patient Demographics
 
-![Patient Demographics](assets/01-patient-demographics.png)
+![Patient Demographics](01-patient-demographics.png)
 
 This page provides an overview of patient demographics and medical conditions, including:
 
